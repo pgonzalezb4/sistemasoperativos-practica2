@@ -1,0 +1,4 @@
+[Fecha: 2023:05:25 01:39:42] Cliente [127.0.0.1], [so_id: 10 - dest_id: 100 - hour: 10]
+[Fecha: 2023:05:25 01:39:52] Cliente [127.0.0.1], [so_id: 1 - dest_id: 10 - hour: 10]
+[Fecha: 2023:05:25 01:40:03] Cliente [127.0.0.1], [so_id: 1 - dest_id: 1 - hour: 1]
+[Fecha: 2023:05:25 01:40:13] Cliente [127.0.0.1], [so_id: 10 - dest_id: 10 - hour: 1]
